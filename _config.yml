@@ -37,15 +37,19 @@ author:
                      Work Flow Tool (C# web application, SQL, PL/SQL): 
                         WFT is British Telecom’s Pre-Billing & Payments application, interferes with the Billing system and generates the verified charges and corrected invoices for Openreach customers.
                      
+                     
                      Enquiry Management System (C# web application, SQL, PL/SQL): 
                         EMS organizes, tracks and eases the wide scale validation process for Queries/Disputes in a service area under Post Billing & Payments Platform for British Telecom. It helped replacing Jira for some team.
+                     
                      
                      Final Billing Tool (C# desktop application, SQL, PL/SQL): 
                         Automated tool to upload various types of files in the database on a single click and generate final billing files after applying business logics.
                      
+                     
                         Responsibilities: 
                             Gathering requirements from client. Leading development, testing & deployment activities. Building & Designing web applications along with SQL stored procedures. Delivering workflow automation using SQL Stored procedures and Scheduled Jobs. Maintaining massive scaled database. Giving live support to clients.
-                        
+                     
+                     
                         Accomplishments: 
                             Automated Work Flow Tool to Final Billing Tool, resulted in 60% productivity increase. Built & delivered a robust Enquiry Management System reducing 50% of man power. Optimized SQL procedures to retrieve data. Build SQL procedure to generate 6 crucial reports in a single query. Independently carried out 2 major upgrades of EMS within timescales with no glitch.
   educationHistory:
